@@ -6,7 +6,7 @@ class Craigslist extends Component {
 	};
 
 	componentDidMount() {
-		
+
 	}
 
 	render() {
